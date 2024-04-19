@@ -25,7 +25,7 @@
 	Global Styles
 ========================================================================== */
 a {
-	color: #E04343;
+	color: #6e1919;
 	-webkit-transition:all 0.5s;
 	-moz-transition:all 0.5s;
 	-o-transition:all 0.5s;
@@ -76,10 +76,9 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 }
 audio,canvas,video {
 	display:inline-block;
-	*display:inline;
-	*zoom: 1;
+	display:inline;
+	zoom: 1;
 }
-* Remove excess height in iOS 5 devices. */
 audio:not([controls]) {
 	display:none;
 	height:0;
@@ -457,7 +456,7 @@ table {
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
-	background-color: #FBFBFB;
+	background-color: #ffffff;
 }
 .hero h1 {
 	font-size: 120px;
